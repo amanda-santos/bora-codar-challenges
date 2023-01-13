@@ -40,8 +40,10 @@ Technologies used to develop this project:
 
 ## 🖥 Preview
 
+<img src="assets/preview-1.png" alt="" />
+<img src="assets/preview-2.png" alt="" />
 
-Click <a href="https://linktree-amanda-santos.vercel.app/">here</a> to see it live. 📺
+Click <a href="https://bora-codar-1-music-player.vercel.app/" target="_blank">here</a> to see it live. 📺
 
 ## ⌨ Getting started
 
