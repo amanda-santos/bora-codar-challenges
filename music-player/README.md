@@ -2,20 +2,18 @@
   #boraCodar
 </h1>
 
-<h3 align="center">
+<h2 align="center">
   Challenge #1: Music Player 🎵
-</h3>
-
-<hr />
+</h2>
 
 <img src="assets/cover.png" alt="" />
 
-<p>
+<p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 📝 About the project
