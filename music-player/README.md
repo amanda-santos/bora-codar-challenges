@@ -18,7 +18,7 @@
 
 ## 📝 About the project
 
-<p>This is music player built for learning purposes. 
+<p>This is a music player built for learning purposes. 
 <br />
 Developed as the challenge #1 of <a href="https://boracodar.dev/">#boraCodar</a>. 🚀
 </p>

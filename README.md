@@ -29,7 +29,22 @@
 
 ## 👩🏻‍💻 Challenges
 
-- <a href="./music-player/README.md">#1 🎵 Music Player</a> [React, Vite, Typescript, TailwindCSS]
+<ul>
+  <li>
+    #1 Music Player 🎵
+    <ul>
+      <li>
+        <a href="https://bora-codar-1-music-player.vercel.app/" target="_blank">
+          Live Preview
+        </a>
+      </li>
+      <li>
+        <a href="./music-player">Source code</a>
+      </li>
+      <li>Built with: React, Vite, Typescript, TailwindCSS</li>
+    </ul>
+  </li>
+</ul>
 
 ## 🤔 How to contribute
 
