@@ -2,6 +2,8 @@
   #boraCodar
 </h1>
 
+<img src="assets/cover.png" alt="" />
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/amanda-santos/bora-codar-challenges">
 
@@ -29,22 +31,44 @@
 
 ## 👩🏻‍💻 Challenges
 
-<ul>
-  <li>
-    #1 Music Player 🎵
-    <ul>
-      <li>
-        <a href="https://bora-codar-1-music-player.vercel.app/" target="_blank">
-          Live Preview
-        </a>
-      </li>
-      <li>
-        <a href="./music-player">Source code</a>
-      </li>
-      <li>Built with: React, Vite, Typescript, TailwindCSS</li>
-    </ul>
-  </li>
-</ul>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Technologies</th>
+    <th>Source Code</th>
+    <th>Live Preview</th>
+  </tr>
+
+  <tr>
+    <td>🎵 Music Player</td>
+    <td>React, Vite, Typescript, TailwindCSS</td>
+    <td>
+      <a href="./music-player" target="_blank">
+        Link
+      </a>
+    </td>
+    <td>
+      <a href="https://bora-codar-1-music-player.vercel.app/" target="_blank">
+        Link
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🛋️ Product Card</td>
+    <td></td>
+    <td>
+      <a href="" target="_blank">
+        Link
+      </a>
+    </td>
+    <td>
+      <a href="" target="_blank">
+        Link
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🤔 How to contribute
 
