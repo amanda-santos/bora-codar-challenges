@@ -39,7 +39,7 @@ Technologies used to develop this project:
 
 ## 🖥 Preview
 
-Click <a href="https://fastidious-biscochitos-394d04.netlify.app/" target="_blank">here</a> to see it live. 📺
+Click <a href="https://bora-codar-1-music-player.netlify.app/" target="_blank">here</a> to see it live. 📺
 
 ## ⌨ Getting started
 
