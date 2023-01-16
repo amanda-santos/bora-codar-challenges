@@ -63,7 +63,7 @@
       </a>
     </td>
     <td>
-      <a href="https://bora-codar-1-music-player.netlify.app/" target="_blank">
+      <a href="https://bora-codar-2-product-card.netlify.app/" target="_blank">
         Link
       </a>
     </td>

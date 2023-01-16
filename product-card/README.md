@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/49074930/212749231-c0761670-0ec5-4290-
 
 https://user-images.githubusercontent.com/49074930/212749248-59ed957a-f0b0-43ad-be5e-44fc6e2ce9cb.mp4
 
-Click <a href="https://bora-codar-1-music-player.netlify.app/" target="_blank">here</a> to see it live. 📺
+Click <a href="https://bora-codar-2-product-card.netlify.app/" target="_blank">here</a> to see it live. 📺
 
 ## ⌨ Getting started
 
