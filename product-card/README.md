@@ -39,6 +39,10 @@ Technologies used to develop this project:
 
 ## 🖥 Preview
 
+https://user-images.githubusercontent.com/49074930/212749231-c0761670-0ec5-4290-bb85-9e7d968960a2.mp4
+
+https://user-images.githubusercontent.com/49074930/212749248-59ed957a-f0b0-43ad-be5e-44fc6e2ce9cb.mp4
+
 Click <a href="https://fastidious-biscochitos-394d04.netlify.app/" target="_blank">here</a> to see it live. 📺
 
 ## ⌨ Getting started
