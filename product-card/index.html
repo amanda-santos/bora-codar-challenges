@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A product landing page." />
+    <title>#boraCodar #2 | product card</title>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@600&family=Lato:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <div class="product">
+        <div class="product-image">
+          <img
+            src="assets/product-image.png"
+            alt="Margot II Couch - Rose"
+            width="450"
+            id="product-image"
+          />
+
+          <button
+            title="Toggle 360º mode"
+            class="turn-360-button"
+            onclick="toggleGif()"
+          >
+            <img src="assets/360.svg" alt="" id="turn-360-image" />
+          </button>
+        </div>
+
+        <div class="product-info">
+          <span class="product-code">Code: 42404</span>
+
+          <h1 class="product-name">Margot II Couch - Rose</h1>
+
+          <span class="product-price">$ 2,000</span>
+
+          <button class="add-to-cart-button">Add to cart</button>
+        </div>
+      </div>
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
