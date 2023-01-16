@@ -10,8 +10,6 @@ function toggleGif() {
   const productImage = "assets/product-image.png";
   const productGif = "assets/product-gif.gif";
 
-  console.log(buttonImageSrc);
-
   if (buttonImageSrc === turn360Image) {
     buttonImage.setAttribute("src", closeImage);
     productImageElement.setAttribute("src", productGif);

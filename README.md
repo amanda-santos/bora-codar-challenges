@@ -58,12 +58,12 @@
     <td>🛋️ Product Card</td>
     <td></td>
     <td>
-      <a href="" target="_blank">
+      <a href="./product-card" target="_blank">
         Link
       </a>
     </td>
     <td>
-      <a href="" target="_blank">
+      <a href="https://fastidious-biscochitos-394d04.netlify.app/" target="_blank">
         Link
       </a>
     </td>
