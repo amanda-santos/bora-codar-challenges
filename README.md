@@ -56,7 +56,7 @@
 
   <tr>
     <td>🛋️ Product Card</td>
-    <td></td>
+    <td>HTML, CSS, Vanilla Javascript</td>
     <td>
       <a href="./product-card" target="_blank">
         Link

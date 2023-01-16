@@ -35,7 +35,7 @@ Technologies used to develop this project:
 
 - HTML
 - CSS
-- Vanilla JavaScript
+- Vanilla Javascript
 
 ## 🖥 Preview
 
