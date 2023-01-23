@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  -webkit-font-smoothing: antialiased;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+}
+
+body {
+  @apply bg-darkPurple-900;
+}
+
+td {
+  padding: 24px;
+}
