@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Challenge #1: Working with buttons, hover, focus and more 🖱️
+  Challenge #3: Working with buttons, hover, focus and more 🖱️
 </h2>
 
 <img src="assets/cover.png" alt="" />
@@ -39,6 +39,8 @@ Technologies used to develop this project:
 - Vite
 
 ## 🖥 Preview
+
+https://user-images.githubusercontent.com/49074930/214432791-435d47bd-ba4a-4d5d-94e3-35f3c879f82c.mp4
 
 Click <a href="https://bora-codar-3-buttons.netlify.app/" target="_blank">here</a> to see it live. 📺
 
