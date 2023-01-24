@@ -68,6 +68,21 @@
       </a>
     </td>
   </tr>
+
+   <tr>
+    <td>🖱️ Working with buttons, hover, focus and more</td>
+    <td>React, Vite, Typescript, TailwindCSS</td>
+    <td>
+      <a href="./buttons" target="_blank">
+        Link
+      </a>
+    </td>
+    <td>
+      <a href="https://bora-codar-3-buttons.netlify.app/" target="_blank">
+        Link
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 🤔 How to contribute
